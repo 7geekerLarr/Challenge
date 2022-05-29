@@ -2,6 +2,7 @@
 Challenge
 
 Descarga
+
 1.- Para Descargar la App Challenge hay dos opciones:
 
 	1.1 - Ir a la siguiente dirección: https://github.com/7geekerLarr/Challenge  y presionar el 	boton CODE la opcion Download ZIP.
