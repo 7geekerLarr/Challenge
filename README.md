@@ -28,7 +28,7 @@ Ejemplo:  baseURL: 'http://192.168.1.6:5010'    
 
 2.- En la terminal de comando donde se desplego la app ejecutar:
 
-	yarn install
+	yarn start
 	
 	inmediatamente despues levanta una interfase con un código Qr code, para ser leído.
 
